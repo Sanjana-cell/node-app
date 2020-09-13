@@ -1,1 +1,1 @@
-sudo pm2 restart /node-app/NodeJs-API/server.js
+sudo pm2 restart /node-app/node-app/server.js

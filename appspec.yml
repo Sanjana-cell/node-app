@@ -2,7 +2,7 @@ version: 0.0
 os: linux
 files:
   - source: /
-    destination: /node-app/NodeJs-API
+    destination: /node-app/node-app
 hooks:
   BeforeInstall:
     - location: scripts/clean.sh
